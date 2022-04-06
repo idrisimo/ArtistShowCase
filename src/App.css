@@ -44,3 +44,11 @@
   background-repeat: no-repeat;
 
 }
+
+.jumbotron {
+	display: flex;
+	background-image: linear-gradient(to bottom, blue, #212529),url("#");
+	background-size: cover;
+	height: 100vh;
+	color: white;
+}
